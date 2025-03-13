@@ -1,0 +1,28 @@
+@import url(../App.css);
+
+nav {
+   
+}
+
+ul {
+    background-color: var(--Cor3);
+}
+
+li {
+    display: inline-block;
+    margin: 0 8px;
+    padding: 9px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: var(--Cor5);
+    padding: 9.5px;
+    transition: 0.5s;
+}
+
+a:hover {
+    background-color: var(--Cor5);
+    color: var(--Cor3);
+}
