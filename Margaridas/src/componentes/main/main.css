@@ -1,0 +1,17 @@
+@import url(../App.css);
+
+main {
+    background-color: var(--Cor1);
+}
+
+article {
+    background-color:var(--Cor6); 
+    max-width: 700px;
+    height: 100vh;
+}
+
+article > p {
+    font-family: var(--fonte-basica);
+    line-height: 1.4em;
+    
+}

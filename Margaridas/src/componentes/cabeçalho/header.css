@@ -6,7 +6,7 @@ header {
     background-size: cover;
     background-attachment: fixed;
 
-    width: 97.77vw;
+    width: 97.86vw;
     height: 100vh;
     position: relative;
 
@@ -30,14 +30,14 @@ header {
     text-align: center;
 }
 
-h1 {
+header h1 {
     font-family: var(--fonte-especial);
     font-size: 2.5em;
 
 
 }
 
-p {
+header p {
     font-family: var(--fonte-basica);
     font-size: 1.2em;
 }
